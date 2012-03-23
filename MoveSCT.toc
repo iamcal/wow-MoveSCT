@@ -1,0 +1,6 @@
+## Interface: 40300
+## Title: Move Scrolling Combat Text
+## Author: Cal Henderson (Bees on Hyjal-US)
+## Version: 1.0
+
+MoveSCT.lua
